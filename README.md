@@ -1,5 +1,7 @@
+<img src="https://imgur.com/3FFaoBX.png" alt="Banner Image" style="width: 100%; height: auto; max-height: 400px;">
+
 <h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer from India</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=yachavarapukarthik&label=Profile%20views&color=10403B&style=flat-circle&labelColor=0000000&colorA=10403B" alt="yachavarapukarthik" /> 
