@@ -1,4 +1,4 @@
-<img src="https://imgur.com/3FFaoBX.png" alt="Banner Image" style="width: 100%; height: auto; max-height: 400px;">
+<img src="public/karthik-info-crop.png" alt="Banner Image" style="width: 100%; height: auto; max-height: 400px;">
 
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">Full Stack Developer from India</h3>
