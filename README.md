@@ -1,96 +1,139 @@
-<img src="public/karthik-info-crop.png" alt="Banner Image" style="width: 100%; height: auto; max-height: 400px;">
+<div align="center">
+  <img src="public/karthik-info-crop.png" alt="Banner" width="100%" style="max-height: 400px; object-fit: cover; border-radius: 10px;">
+  
+  # Hey there! 👋 I'm **Karthik**
+  
+  ### 🚀 Full Stack Web Developer from India
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=yachavarapukarthik&label=Profile%20Views&color=0891b2&style=for-the-badge&labelColor=1c1917" alt="Profile Views" />
+  </p>
 
-<h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">Full Stack Developer from India</h3>
+  <p>
+    <a href="https://linkedin.com/in/karthik-yacharapu-661892266/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/mr_karthik_889" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    </a>
+    <a href="https://twitter.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+    </a>
+  </p>
+  
+  <p>
+    <a href="https://www.hackerrank.com/karthikluckily" target="_blank">
+      <img src="https://img.shields.io/badge/-00EA64?style=flat-square&logo=hackerrank&logoColor=1A1A1A" height="48" alt="HackerRank"/>
+    </a>
+    &nbsp;
+    <a href="https://www.leetcode.com/mr_karthik_889" target="_blank">
+      <img src="https://img.shields.io/badge/-FFA116?style=flat-square&logo=leetcode&logoColor=1A1A1A" height="48" alt="LeetCode"/>
+    </a>
+    &nbsp;
+    <a href="https://auth.geeksforgeeks.org/user/mr_karthik_889/" target="_blank">
+      <img src="https://img.shields.io/badge/-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" height="48" alt="GeeksForGeeks"/>
+    </a>
+  </p>
+</div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=yachavarapukarthik&label=Profile%20views&color=10403B&style=flat-circle&labelColor=0000000&colorA=10403B" alt="yachavarapukarthik" /> 
-</p>
+---
 
+## 🛠️ Tech Stack
 
-<h3 align="center">Connect with me:</h3>
+### 💻 Languages
 <p align="center">
-  <a href="https://linkedin.com/in/karthik-yacharapu-661892266/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mr_karthik_889" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/karthikluckily" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/mr_karthik_889" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/mr_karthik_889/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <!-- Group 1: Web Development Stack -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img align="center"align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
+---
 
-  <!-- Group 2: Programming Languages and Databases -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-</p>
-
-
+### ⚡ Frontend Frameworks & Libraries
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yachavarapukarthik&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
+  <a href="https://www.solidjs.com/"><img src="https://skillicons.dev/icons?i=solidjs" alt="SolidJS" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+  <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
 </p>
-<!--
+
+---
+
+### 📱 Mobile Development
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yachavarapukarthik&show_icons=true&locale=en" alt="GitHub Stats" />
+  <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React Native" /></a>
 </p>
--->
+
+---
+
+### 🔧 Backend & API
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yachavarapukarthik&" alt="GitHub Streak Stats" />
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://deno.land/"><img src="https://skillicons.dev/icons?i=deno" alt="Deno" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a>
+  <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /></a>
 </p>
+
+---
+
+### 🗄️ Databases & Caching
+<p align="center">
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
+  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+</p>
+
+---
+
+### 🤖 AI & Automation
+<p align="center">
+  <a href="https://ai.meta.com/llama/"><img src="https://skillicons.dev/icons?i=pytorch" alt="AI/ML" /></a>
+</p>
+
+---
+
+### 🔨 Tools & Testing
+<p align="center">
+  <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yachavarapukarthik&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yachavarapukarthik&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
