@@ -1,9 +1,9 @@
 <div align="center">
   <img src="public/karthik-info-crop.png" alt="Banner" width="100%" style="max-height: 400px; object-fit: cover; border-radius: 10px;">
   
-  # Hey there! 👋 I'm **Karthik**
+  # Hey there! 👋 I'm **Karthik Yacharapu**
   
-  ### 🚀 Full Stack Web Developer from India
+  ### Full Stack Web Developer
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=yachavarapukarthik&label=Profile%20Views&color=0891b2&style=for-the-badge&labelColor=1c1917" alt="Profile Views" />
@@ -38,9 +38,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
@@ -49,28 +49,25 @@
   <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
 </p>
 
----
-
 ### ⚡ Frontend Frameworks & Libraries
 <p align="center">
   <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
   <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
   <a href="https://www.solidjs.com/"><img src="https://skillicons.dev/icons?i=solidjs" alt="SolidJS" /></a>
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
   <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
   <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
 </p>
 
----
 
-### 📱 Mobile Development
+###  Mobile Development
 <p align="center">
   <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React Native" /></a>
 </p>
 
----
 
-### 🔧 Backend & API
+###  Backend & API
 <p align="center">
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
   <a href="https://deno.land/"><img src="https://skillicons.dev/icons?i=deno" alt="Deno" /></a>
@@ -79,9 +76,7 @@
   <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /></a>
 </p>
 
----
-
-### 🗄️ Databases & Caching
+###  Databases & Caching
 <p align="center">
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
@@ -91,10 +86,10 @@
   <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
 </p>
 
----
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p align="center">
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
   <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
   <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
@@ -102,16 +97,17 @@
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 </p>
 
----
 
-### 🤖 AI & Automation
+### AI, ML & Computer Vision
 <p align="center">
-  <a href="https://ai.meta.com/llama/"><img src="https://skillicons.dev/icons?i=pytorch" alt="AI/ML" /></a>
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
+  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>
+  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" /></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
 </p>
 
----
 
-### 🔨 Tools & Testing
+###  Tools & Testing
 <p align="center">
   <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
@@ -120,7 +116,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yachavarapukarthik&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
