@@ -49,7 +49,7 @@
   <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
 </p>
 
-### ⚡ Frontend Frameworks & Libraries
+###  Frontend Frameworks & Libraries
 <p align="center">
   <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
   <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
